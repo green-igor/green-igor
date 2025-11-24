@@ -1,4 +1,4 @@
-## **Hi, My name is Grenaderov Igor 😊**
+## **Hi, my name is Grenaderov Igor 😊**
 
 I'm Data Scientist and I like solving tasks relater to natural language processing.
 <br>Actively seeking opportunities to contribute and grow in a dynamic environment.
